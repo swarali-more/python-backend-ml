@@ -6,6 +6,7 @@ This repository contains my structured Python learning practice.
 
 ### 01 Basics
 - Data Types
-  - Numeric (int, float, complex)
-
-More topics will be added step by step.
+  - Numeric
+    - Integer
+    - Float
+    - Complex
