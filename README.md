@@ -9,4 +9,4 @@ This repository contains my structured Python learning practice.
   - Numeric
     - Integer
     - Float
-    - Complex
+    - swarali
