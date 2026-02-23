@@ -1,7 +1,7 @@
 # Float Data Type Example
 
-x = 10.5
-y = 2.5
+x = 10.6
+y = 2.6
 
 print("Value of x:", x)
 print("Value of y:", y)
