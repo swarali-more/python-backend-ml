@@ -1,12 +1,16 @@
-# Python Backend ML Journey
+## Python Basics - Numeric Data Types
 
-This repository contains my structured Python learning practice.
+- int
+- float
+- complex
 
-## Topics Covered
+Each file contains:
+- Explanation
+- Example
+- Operations
+- Type validation
 
-### 01 Basics
-- Data Types
-  - Numeric
-    - Integer
-    - Float
-    - swarali
+## Progress Log
+
+- Updated numeric datatype examples
+- Practicing Python backend fundamentals daily
